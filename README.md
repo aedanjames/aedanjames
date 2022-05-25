@@ -6,7 +6,7 @@
  
 
 Hello! I'm Aedan, a Back-End Software Engineer with a passion for videogames and quality code. 
-My background in Surgery has helped hone my skills in collaborating and troubleshooting in tension-riddled high-stress situations. And while the risk of bodily harm befalling someone due to poorly written code is unlikely, I've applied that same attention to detail and antipation fo needs to my effort to become an adept Software Engineer. <br>
+My background in Surgery has helped hone my skills in collaborating and troubleshooting in tension-riddled high-stress situations. And while the risk of bodily harm befalling someone due to poorly written code is unlikely, I've applied that same attention to detail and antipation for needs in my efforts to become an adept Software Engineer. <br>
 I decided to make the switch from a Surgical Technologist to a Software Developer upon learning that a good developer loves to learn new information, is data-driven, handles complexity with grace and collaborates with other team members in order to achieve a common goal. These qualities directly align with my self-conception, so I am very excited to find a team that I can learn and grow with to make truly awesome products!  
   
 <br>
